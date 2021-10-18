@@ -1,3 +1,6 @@
+# Titanic - Machine Learning from Disaster
+### Start here! Predict survival on the Titanic and get familiar with ML basics
+
 Logging into Kaggle for the first time can be daunting. Our competitions often have large cash prizes, public leaderboards, and involve complex data. Nevertheless, we really think all data scientists can rapidly learn from machine learning competitions and meaningfully contribute to our community. To give you a clear understanding of how our platform works and a mental model of the type of learning you could do on Kaggle, we've created a Getting Started tutorial for the Titanic competition. It walks you through the initial steps required to get your first decent submission on the leaderboard. By the end of the tutorial, you'll also have a solid understanding of how to use Kaggle's online coding environment, where you'll have trained your own machine learning model.
 
 So if this is your first time entering a Kaggle competition, regardless of whether you:
